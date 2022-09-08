@@ -1,0 +1,156 @@
+@media (max-width:600px){
+  .logo-part{
+  width:100%;
+  text-align: center;
+  }
+  .menu-part{
+    width: 90%;
+    text-align: center;}
+
+  menu-part li{
+    margin:0px 2px;}
+
+    .icon-bar{
+      width:100%;
+      margin: auto;
+    }
+
+    #service{
+      color: #ffffff;
+       text-align: center;
+       float: left;
+       width: 100%;
+     background-image: url(../image/img-1.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center;
+     background-attachment: fixed;
+        }
+
+
+    .hero-text{
+      width:100%;
+      float:left;
+      margin-top: 150px;
+      margin-bottom: 30px;
+      text-align: left;
+       }
+   .hero-text h1{
+               font-size: 35px;
+               font-weight: 600;
+               width: 100%;
+               margin: auto;
+               float:left;
+                 }
+          .hero-text p{
+                  
+                  width: 100%;
+                  font-size: 20px;
+                  float:left;
+                 }
+    
+                 .hero-text a button{
+                  width:50%;
+                  padding: 5px;
+                  margin-top: 10px;
+                  margin-bottom: 0.5px;
+                  margin-left: 3px;
+                  font-size: 20px;
+                  color: #ffffff;
+                  background-color: #e8631c;
+                  transition:ease-in-out 0.8s;
+                  text-transform: uppercase;
+  
+    }
+
+    .dance-team-part h1{
+      font-size: 35px;
+       width: 50%;
+      margin: auto;
+      text-transform: uppercase;
+     
+          }
+
+        .dance-team-part p{
+          font-size: 15px;
+          width: 50%;
+          margin: auto;
+          padding-top: 20px;
+            }
+
+    .dance-team-part{
+      width: 100%;
+      float: left;
+           }
+
+   .dance-boxing-part{
+      width: 100%;
+      float: left;
+      margin-top: 50px;
+      
+      
+   }
+
+   .dance-box{
+      width: 33%;
+      float: left;
+      margin: auto;
+        
+       }
+   .dance-box img{
+    width: 100px;
+    height: 200px;
+    
+     
+   }
+
+   .back-ground{
+    background-image: url(../image/back.png);
+    padding:10px;
+     width: 62%;
+     height: 120px;
+     margin: auto;
+     
+   }
+
+   .back-ground h2{
+    font-size: 15px;
+    padding: 10px;
+     
+   }
+   .back-ground p{
+    font-size: 10px;
+     
+   }
+
+   .pricing-part h1{
+    font-size: 20px;
+      width: 100%;
+    margin: auto;
+    text-transform: uppercase;
+   
+        }
+
+        .pricing-part p{
+          font-size: 15px;
+          width: 100%;
+          margin: auto;
+          padding-top: 20px 50px;
+            }
+
+    .pricing-part{
+      width: 100%;
+      float: left;
+           }
+
+   .Pricing-boxing-part{
+      width: 100%;
+      float: left;
+      
+           }
+
+   
+   
+
+
+  }
